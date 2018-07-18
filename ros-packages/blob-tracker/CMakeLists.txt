@@ -53,13 +53,9 @@ include_directories(
 ## Build nodes ##
 #################
 ## Declare a cpp executable
-add_executable(tracker_blobs_only tracker_blobs_only.cpp)
 add_executable(tracker_blobs_ibvs tracker_blobs_ibvs.cpp)
-add_executable(tracker_blobs_ibvs_real tracker_blobs_ibvs_real.cpp)
 
 ## Specify libraries to link a library or executable target against
-target_link_libraries(tracker_blobs_only ${catkin_LIBRARIES})
 target_link_libraries(tracker_blobs_ibvs ${catkin_LIBRARIES})
-target_link_libraries(tracker_blobs_ibvs_real ${catkin_LIBRARIES})
 
 

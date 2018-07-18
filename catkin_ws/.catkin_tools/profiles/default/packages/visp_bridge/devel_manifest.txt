@@ -1,6 +1,0 @@
-vision_visp/visp_bridge
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/visp_bridge/lib/libvisp_bridge.so /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/lib/libvisp_bridge.so
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/visp_bridge/lib/pkgconfig/visp_bridge.pc /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/lib/pkgconfig/visp_bridge.pc
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/visp_bridge/lib/visp_bridge/visp_bridge_convert_camera_parameters /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/lib/visp_bridge/visp_bridge_convert_camera_parameters
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/visp_bridge/share/visp_bridge/cmake/visp_bridgeConfig-version.cmake /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/share/visp_bridge/cmake/visp_bridgeConfig-version.cmake
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/visp_bridge/share/visp_bridge/cmake/visp_bridgeConfig.cmake /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/share/visp_bridge/cmake/visp_bridgeConfig.cmake

@@ -1,5 +1,0 @@
-dvrk_python
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/dvrk_python/lib/pkgconfig/dvrk_python.pc /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/lib/pkgconfig/dvrk_python.pc
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/dvrk_python/lib/python2.7/dist-packages/dvrk_python/__init__.py /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/lib/python2.7/dist-packages/dvrk_python/__init__.py
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/dvrk_python/share/dvrk_python/cmake/dvrk_pythonConfig-version.cmake /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/share/dvrk_python/cmake/dvrk_pythonConfig-version.cmake
-/data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/.private/dvrk_python/share/dvrk_python/cmake/dvrk_pythonConfig.cmake /data/work/da-vinci-simulator/repository-mario/Software/catkin_ws/devel/share/dvrk_python/cmake/dvrk_pythonConfig.cmake

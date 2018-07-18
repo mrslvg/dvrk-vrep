@@ -1,13 +1,13 @@
 <package>
-  <name>tracker_cpp</name>
+  <name>blob-tracker</name>
   <version>1.0.0</version>
     <description>
       Executable to acquire images from vrep
   </description>
-  <author>Firas Abi Farraj</author>
+  <author> Mario Selvaggio </author>
   <license>GPLv2</license>
   <url>NA</url>
-  <maintainer email="firas.abi-farraj@irisa.fr">Firas Abi Farraj</maintainer>
+  <maintainer email="mario.selvaggio@unina.it"> Mario Selvaggio </maintainer>
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>roscpp</build_depend>
