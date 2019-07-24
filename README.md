@@ -59,7 +59,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-This work depends on the ACADO Toolkit, developed by the Optimization in Engineering Center (OPTEC) under supervision of Moritz Diehl. Licensing detail can be found on the [ACADO licensing page](http://acado.github.io/licensing.html). It is released under GNU Lesser General Public License as published by the Free Software Foundation, version 3.
+This work is released under GNU Lesser General Public License as published by the Free Software Foundation, version 3.
 ACADO uses qpOASES by Hans Joachim Ferreau et al., released under GPL v2.1.
 
 
